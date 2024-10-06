@@ -9,8 +9,7 @@ The objective of this project is to analyze Netflix viewing data and provide ins
 1. **Data Import**: Imported Netflix viewing data into the system using SQL.
 2. **Data Cleaning**: Cleaned the data using SQL queries to handle missing values, duplicates, and inconsistencies.
 3. **Data Analysis**: Performed data analysis using statistical techniques to identify trends and patterns in user behavior.
-4. **Visualization**: Created interactive dashboards using Power BI to visualize key metrics, trends, and insights.
-5. **Business Solutions**: Solved 15 business problems related to content popularity, user engagement, and recommendation system improvement.
+4. **Business Solutions**: Solved 15 business problems related to content popularity, user engagement, and recommendation system improvement.
 
 ## Conclusion
 This project successfully solved 15 business problems, enhancing the understanding of user behavior and improving content strategies for Netflix. Key insights into content popularity and recommendation systems were provided, enabling data-driven decision-making.
@@ -18,7 +17,6 @@ This project successfully solved 15 business problems, enhancing the understandi
 ## Tools Used
 - SQL
 - Excel
-- Power BI
 
 ## Outcome
 The analysis helped uncover patterns in user viewing habits, optimizing Netflix's content delivery and recommendation systems to enhance user engagement.
@@ -26,4 +24,3 @@ The analysis helped uncover patterns in user viewing habits, optimizing Netflix'
 ## How to Run
 1. Clone the repository.
 2. Import the SQL file into your preferred database tool.
-3. Use Power BI to load the cleaned data and visualize the results using interactive dashboards.
