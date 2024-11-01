@@ -1,3 +1,5 @@
+![BrandAssets_Logos_02-NSymbol](https://github.com/user-attachments/assets/3e201f67-467d-4e02-8cf4-43016273ad48)
+
 # Netflix Data Analysis and Visualization
 
 This project involves analyzing and visualizing Netflix viewing data to uncover user preferences and content trends. The goal is to solve business problems related to content popularity, user behavior, and recommendation strategies using data-driven insights.
